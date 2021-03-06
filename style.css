@@ -1,10 +1,26 @@
 *{
     margin: auto;
 }
+body{
+    background-color: #F15A29;
+}
 .header{
     background-image: url("../images/image1.jpg");
     background-repeat: no-repeat;
     height: 400px;
     width: 100%;
     background-size: cover;
+}
+.white{
+    background-color: white;
+    margin: 0%;
+    display: block;
+    padding: 20px;
+
+}
+.orange{
+    margin: 0%;
+    display: block;
+    padding: 20px;
+}
 }

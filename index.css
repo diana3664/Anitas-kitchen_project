@@ -6,6 +6,12 @@ padding-top: 50px;
 div>#motto{
     text-align: center;
     padding: 25px;
-    color: white;
-    size: 200px;
+    color: rgba(241, 232, 232, 0.966);
+    background-color: none;
 }
+
+.emphasis{
+font-weight: bolder;
+font-style: normal;
+}
+
