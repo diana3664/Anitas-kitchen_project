@@ -1,8 +1,9 @@
 *{
     margin: auto;
+    box-sizing: border-box;
 }
-body{
-    background-color: #F15A29;
+ul{
+    text-decoration: none;
 }
 .header{
     background-image: url("../images/image1.jpg");
@@ -12,15 +13,18 @@ body{
     background-size: cover;
 }
 .white{
-    background-color: white;
-    margin: 0%;
-    display: block;
-    padding: 20px;
+height: 75px;
+width: 200px;
+border: 3px solid white;
 
 }
 .orange{
-    margin: 0%;
-    display: block;
-    padding: 20px;
+    height: 75px;
+    width: 200px;
+    border: 3px solid #F15A29;
+    background-color: #F15A29;
 }
+#position{
+    position: absolute;
+    left: 0%;
 }
