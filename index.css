@@ -14,4 +14,19 @@ div>#motto{
 font-weight: bolder;
 font-style: normal;
 }
+#drinks {
+    display: flex;
+    flex-direction: row;
+    border: 3px solid #eee;
+    box-shadow: 3px 3px 5px grey;
+    width: 560px;
+    height: 460px;
+    background-color: white;
+    padding: 5px 15px;
+    margin: 0px;
+    padding-left: 50px;
+    margin-left: 750px;
+    margin-top: 0px;
+    float: right;
 
+}

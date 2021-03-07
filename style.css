@@ -44,37 +44,66 @@ border: 3px solid white;
       height: 150px; 
     }
     .two{
-        height: 150px;
+        height: 210px;
         background-image: url("./images/breakfast.jpg");
         background-size: cover;
         color: white;
     }
     .three{
-        height: 150px;
+        height: 210px;
         background-image: url("./images/lunch.jpg") ;
         background-size: cover;
         color: white;
     }
     .four{
-        height: 150px;
+        height: 210px;
         background-image: url("./images/dinner2.jpg");
         background-size: cover;
         color: white;
     }
     #first-heading{
-   padding: 15px;
-   float: right;
-   margin-left: 315px;
-   margin-top: 105px;
+        padding: 15px;
+        margin-top: 110px;
+       float: right;
+       margin-left: 750px;
     }
     .move{
+        float: left;
         display: flex;
         flex-direction: column;
-    justify-content: left;
-    margin-top: 100px;
-    margin-left: 100px;
+        justify-content: left;
+        border: 3px solid #eee;
+        box-shadow: 5px 5px 5px grey;
+        width: 560px;
+        height: 460px;
+        background: white;
+        padding: 55px 5px;
+        margin-top: -160px;
+        margin-left: 100px;
+    }
+    #second-heading{
+        clear: left;
+      margin-top: 110px;
+      padding: 15px;
+      float: left;
+ }
+    }
+    #drinks {
+        clear: right;
+        float: right;
+        justify-content: left;
+        border: 3px solid #eee;
+        box-shadow: 5px 5px 5px black;
+        width: 580px;
+        height: 450px;
+        background-color: white;
+        padding: 5px 15px;
+        padding-top: 100%;
+
+
     }
 
   
+    
     
 
