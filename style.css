@@ -13,14 +13,14 @@ ul{
     background-size: cover;
 }
 .white{
-height: 75px;
+height: 105px;
 width: 150px;
 border: 3px solid white;
 
 }
 .orange{
-    height: 75px;
-    width: 203px;
+    height: 105px;
+    width: 457px;
     border: 3px solid #F15A29;
     background-color: #F15A29;
     color: white;
@@ -78,7 +78,7 @@ border: 3px solid white;
         height: 460px;
         background: white;
         padding: 55px 5px;
-        margin-top: -160px;
+        margin-top: -400px;
         margin-left: 100px;
     }
     #second-heading{
@@ -86,21 +86,8 @@ border: 3px solid white;
       margin-top: 110px;
       padding: 15px;
       float: left;
- }
-    }
-    #drinks {
-        clear: right;
-        float: right;
-        justify-content: left;
-        border: 3px solid #eee;
-        box-shadow: 5px 5px 5px black;
-        width: 580px;
-        height: 450px;
-        background-color: white;
-        padding: 5px 15px;
-        padding-top: 100%;
-
-
+      margin-right: 750px;
+      margin-left: 100px;
     }
 
   
