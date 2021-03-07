@@ -23,10 +23,12 @@ border: 3px solid white;
     width: 203px;
     border: 3px solid #F15A29;
     background-color: #F15A29;
+    color: white;
 }
 #position{
     position: absolute;
-    left: 0%;
+    left: 0;
+    text-align: center;
 }
 .column {
     float: left;
@@ -45,15 +47,23 @@ border: 3px solid white;
         height: 150px;
         background-image: url("./images/breakfast.jpg");
         background-size: cover;
-        text-align: center;
+        color: white;
     }
     .three{
         height: 150px;
         background-image: url("./images/lunch.jpg") ;
         background-size: cover;
+        color: white;
     }
     .four{
         height: 150px;
         background-image: url("./images/dinner2.jpg");
         background-size: cover;
+        color: white;
     }
+    .column two{
+        display: flex;
+        align-items: center;
+    }
+    
+
