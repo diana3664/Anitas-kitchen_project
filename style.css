@@ -1,5 +1,5 @@
 *{
-    margin: auto;
+    margin: 0px;
     box-sizing: border-box;
 }
 ul{
@@ -89,8 +89,18 @@ border: 3px solid white;
       margin-right: 750px;
       margin-left: 100px;
     }
+  .background{
+      clear: both;
+      background-image: url("./images/foodsBg.jpg");
+      background-size: cover;
+      display: flex;
+      padding: 100px;
+      /* background-color: brown; */
+  }
+  .food{
+     
+    display: flex;
+    padding: 110px;
 
-  
-    
-    
+}  
 
