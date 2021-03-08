@@ -102,5 +102,9 @@ border: 3px solid white;
     display: flex;
     padding: 110px;
 
-}  
+} 
+.nav{
+    margin: 50px 50px 50px 50px;
+    background-color: white;
+} 
 
