@@ -127,7 +127,7 @@ border: 3px solid white;
   filter: drop-shadow(5px 5px 5px grey);
     background-color: white;
     padding-left: 450px;
-    height: 250px;
+    height: 400px;
 
 }
 .about{
@@ -141,4 +141,14 @@ border: 3px solid white;
     background-size: cover;
     height: 301px;
     width: 100%;
+}
+.subscribe{
+     padding-top: 10%;
+     padding-left: 800px;
+}
+.email{
+    background-color: lightgray;
+}
+.sub{
+    background-color: #F15A29;
 }
