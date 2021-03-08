@@ -108,3 +108,18 @@ border: 3px solid white;
     background-color: white;
 } 
 
+.list{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.list>div{
+    background-color: lightgrey;
+    width: 25%;
+    padding: 20px;
+
+}
+.chickenburger{
+    text-align: justify;
+}
+.clients{
