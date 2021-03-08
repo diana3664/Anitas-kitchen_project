@@ -1,5 +1,5 @@
 *{
-    margin: 0px;
+    margin: auto;
     box-sizing: border-box;
 }
 ul{
@@ -48,18 +48,24 @@ border: 3px solid white;
         background-image: url("./images/breakfast.jpg");
         background-size: cover;
         color: white;
+        padding-top: 100px;
+        padding-left: 150px;
     }
     .three{
         height: 210px;
         background-image: url("./images/lunch.jpg") ;
         background-size: cover;
         color: white;
+        padding-top: 100px;
+        padding-left: 150px;
     }
     .four{
         height: 210px;
         background-image: url("./images/dinner2.jpg");
         background-size: cover;
         color: white;
+        padding-top: 100px;
+        padding-left: 150px;
     }
     #first-heading{
         padding: 15px;
@@ -157,4 +163,13 @@ border: 3px solid white;
 }
 .hamburger{
     background-color: #F15A29;
+    color: white;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding-left: 800px;
+}
+.end{
+    float: right;
+    padding-right: 900px;
+    padding-top: 15px;
 }

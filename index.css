@@ -1,7 +1,8 @@
 .image{
 display: flex;
 justify-content: center;
-padding-top: 50px;
+position: relative;
+padding-left: 20px;
 }
 div>#motto{
     text-align: center;
