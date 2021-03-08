@@ -152,6 +152,9 @@ border: 3px solid white;
 .sub{
     background-color: #F15A29;
 }
+.intro{
+    color: white;
+}
 .hamburger{
-    size: 400px;
+    background-color: #F15A29;
 }
