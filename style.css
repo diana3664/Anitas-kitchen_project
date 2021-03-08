@@ -123,3 +123,15 @@ border: 3px solid white;
     text-align: justify;
 }
 .clients{
+    margin: 70px 150px 20px 50px;
+  filter: drop-shadow(5px 5px 5px grey);
+    background-color: white;
+    padding-left: 450px;
+    height: 250px;
+
+}
+.about{
+    text-align: right;
+    padding-right: 450px;
+    margin-top: -160px;
+}
